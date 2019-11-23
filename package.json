@@ -7,7 +7,7 @@
     "dev": "parcel",
     "build": "parcel build"
   },
-  "keywords": [vue],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
