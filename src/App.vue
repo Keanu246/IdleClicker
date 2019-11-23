@@ -1,8 +1,8 @@
 <template>
     <div id="app">
-        <h1>Bronze Reserves: {{ bronze }}</h1>
+        <Resource name="Bronze" v-bind:amount="bronze" v-bind:credits="credits"</Resource>
         <br>
-        <button>Mine Bronze</button>
+        <button v-on:click="mineOre">Mine Bronze</button>
     </div>
 </template>
 
