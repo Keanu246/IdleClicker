@@ -2,7 +2,7 @@
     <div id="app">
         <Resource name="Bronze" v-bind:amount="bronze" v-bind:credits="credits"</Resource>
         <br>
-        <button v-on:click="mineOre">Mine Bronze</button>
+        <button v-on:click="mineBronze">Mine Bronze</button>
     </div>
 </template>
 
