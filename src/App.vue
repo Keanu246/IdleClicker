@@ -5,3 +5,12 @@
         <button>Mine Bronze</button>
     </div>
 </template>
+
+<script>
+data () {
+  return {
+    bronze: 0
+  }
+}
+
+</script>
