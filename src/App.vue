@@ -28,3 +28,9 @@ import Resource from './components/Resource';
       }
     },
 </script>
+
+<style lang="css">
+    #app {
+        color: green;
+    }
+</style>
