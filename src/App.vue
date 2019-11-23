@@ -27,5 +27,4 @@ import Resource from './components/Resource';
         miner: 8,
       }
     },
-
 </script>
