@@ -1,7 +1,7 @@
 <template>
     <div id="app">
-        <h1>Ore Reserves: {{ ore }}</h1>
+        <h1>Bronze Reserves: {{ bronze }}</h1>
         <br>
-        <button>Mine Ore</button>
+        <button>Mine Bronze</button>
     </div>
 </template>
